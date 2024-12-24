@@ -4,7 +4,7 @@ layout: page
 ---
 
 ### Peer-reviewed research publications.
-Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
+#####Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 
 1. **Rodgers** HR, Norton JB, Norton U, & van Diepen LTA. 2024. Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat *Triticum aestivum, L.*. *Applied Soil Ecology* 204, 105716. https://doi.org/10.1016/j.apsoil.2024.105716
 
@@ -17,8 +17,9 @@ Find full copies on [google scholar](https://scholar.google.com/citations?user=h
 
 4. **Rodgers** HR, Norton, JB, Norton, U., & van Diepen, LTA. Rooting for Microbes: Impacts of Plant Breeding on the Kernza Rhizosphere 
 
+![figure of rhizosphere](images/rhizo_fig.png)
+
 5.  **Rodgers** HR, Norton, JB, Norton, U., & van Diepen, LTA. Kernza in Wyoming: Perennial grains for vulnerable lands
 
 6. Extension Bulletin
 **Rodgers** HR, Fancher H, Foulke T, & Peters T. Kernza® Perennial Grain and Wheat-Fallow Budgets: Comparing an Annual and Perennial Cropping System in Southeastern Wyoming.
-
