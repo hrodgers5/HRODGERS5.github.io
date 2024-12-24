@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: page
-subtitle: "Soil Health & Climate-Resilience Agriculture"
+subtitle: "Soil Health & Climate-Resilient Agriculture"
 ---
 
 I am a soil scientist, with a focus on improving soil health in marginal dryland 
