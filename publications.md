@@ -1,6 +1,6 @@
 ---
-title: "Research Publications"
 layout: page
+title: Research Publications
 ---
 
 ### Peer-reviewed research publications.
