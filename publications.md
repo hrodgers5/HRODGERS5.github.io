@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Publications
+permalink: /publications/
 ---
 
 ### Peer-reviewed research publications.
