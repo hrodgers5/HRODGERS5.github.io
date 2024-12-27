@@ -1,11 +1,11 @@
 ---
 title: "About me"
 layout: page
-subtitle: "Soil Health & Climate-Resilient Agriculture"
 ---
 
-I am a soil scientist, with a focus on improving soil health in marginal dryland 
-systems and working with farmers to create agricultural systems that are 
+![pic](images/profile_pic.jpg)
+
+I am a soil scientist, with a focus on improving soil health in marginal dryland systems and working with farmers to create agricultural systems that are 
 sustainable, resilient to climatatic stress (like drought!), and profitable. 
 My work is informed by the concept of Natural Systems Agriculture, which studies 
 agricultural systems that try to mimic our native ecosystems and the ecosystem 
