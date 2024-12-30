@@ -74,7 +74,7 @@ h1, h2, h3 {text-align: center;}
 <div class="side-by-side"> <div>
 
 #### 6. Annual & Perennial Grain Budgets
-**Rodgers** HR, Fancher H, Foulke T, & Peters T. **Perennial grain and wheat-fallow budgets: Comparing an annual and perennial cropping system in southeastern Wyoming.**
+**Rodgers** HR, Fancher H, Foulke T, & Peters T. **Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming.**
 
 </div> <div>
 <img src="images/edited/Kernza_products.png" width="200" class="image-border">
