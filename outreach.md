@@ -1,5 +1,5 @@
 ---
-title: "Recent Outreach Activities"
+title: Recent Outreach Activities
 layout: page
 permalink: /outreach/
 ---
