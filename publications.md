@@ -1,8 +1,6 @@
 ---
-title: "Research Publications"
-subtitle: "Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)"
 layout: page
-permalink: /publications/
+title: Presentations
 ---
 <!--CSS styling-->
 <style>

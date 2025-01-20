@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Recent Outreach Activities"
+title: Recent Outreach Activities
 ---
 
 <!--CSS styling-->
