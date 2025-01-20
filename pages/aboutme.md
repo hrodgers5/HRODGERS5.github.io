@@ -3,8 +3,9 @@ title: "About Me"
 layout: page
 ---
 
-![headshot](../images/profile3.jpg){width="250"}
-
+</div> <div style="text-align: center;">>
+<img src="../images/profile3.jpg" width="200">
+</div> </div>
 
    My work focuses on working with farmers to create agricultural systems that are sustainable, resilient to climatic stress (like drought!), and economically secure. Currently, I'm a fellow at the USDA Northern Plains Climate Hub. In this role, I'm working to enhance soil & crop health and adaptation to climate change, in part by facilitating collaboration among local farmers, researchers, and service providers. Some of my current research and outreach areas include soil health management, alternative grains crops, and rotations that incorporate perennials. This work is informed by the concept of Natural Systems Agriculture, which aims to create agricultural systems that mimic our native ecosystems and the benefits they provide. 
 
