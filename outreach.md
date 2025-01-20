@@ -1,7 +1,6 @@
 ---
-title: "Recent Outreach Activities"
 layout: page
-permalink: /outreach/
+title: "Recent Outreach Activities"
 ---
 <!--CSS styling-->
 <style>
