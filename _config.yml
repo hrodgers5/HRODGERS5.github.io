@@ -20,10 +20,10 @@ author: Hannah Rodgers
 ###############################################
 
 navbar-links:
-  AboutMe: "aboutme"
-  Publications: "publications"
-  Presentations: "presentations"
-  Outreach: "outreach"
+  AboutMe: "pages/aboutme"
+  Publications: "pages/publications"
+  Presentations: "pages/presentations"
+  Outreach: "pages/outreach"
 
 ################
 # --- Logo --- #
