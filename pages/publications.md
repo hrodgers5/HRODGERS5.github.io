@@ -1,23 +1,9 @@
 ---
 title: "Research Publications"
 layout: page
+subtitle: Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 ---
 
-Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
-
-<!--CSS styling-->
-<style>
-  .side-by-side {display: flex;}
-  .side-by-side > div {flex: 1;padding: 10px;}
-  .image-border {border: 2px solid black;}
-</style>
-
-<style>
-h1, h2, h3 {text-align: center;}
-</style>
-
-
-### 
 
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
