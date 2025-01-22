@@ -1,9 +1,9 @@
 ---
 title: "Research Publications"
 layout: page
-subtitle: Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 ---
 
+## Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
@@ -32,7 +32,7 @@ subtitle: Find full copies on [google scholar](https://scholar.google.com/citati
 **Rodgers** HR, Norton JB, & van Diepen LTA. 2021. **Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.** *Agronomy* 11(5). https://doi.org/10.3390/agronomy11050852
 
 </div> <div>
-<img src="../images/edited/ai_roots2.png" width="200" class="image-border">
+<img src="/images/edited/ai_roots2.png" width="200" class="image-border">
 </div> </div>
 
 ### In-Progress
@@ -44,7 +44,7 @@ subtitle: Find full copies on [google scholar](https://scholar.google.com/citati
 **Rodgers** HR, Norton, JB, Norton, U., & van Diepen, LTA. **Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.**
   
 </div> <div>
-<img src="../images/edited/rhizo.jpg" width="200" class="image-border">
+<img src="/images/edited/rhizo.jpg" width="200" class="image-border">
 </div> </div>
 
 <!--PAPER 5: Kernza Wyoming-->
@@ -54,7 +54,7 @@ subtitle: Find full copies on [google scholar](https://scholar.google.com/citati
 **Rodgers** HR, Norton, JB, Norton, U, & van Diepen, LTA. **Kernza in Wyoming: Perennial grains for vulnerable lands.**
 
 </div> <div>
-<img src="../images/edited/three_roots.jpg" width="200" class="image-border">
+<img src="/images/edited/three_roots.jpg" width="200" class="image-border">
 </div> </div>
 
 <!--PAPER 6: Bulletin-->
@@ -64,5 +64,5 @@ subtitle: Find full copies on [google scholar](https://scholar.google.com/citati
 **Rodgers** HR, Fancher H, Foulke T, & Peters T. **Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming.**
 
 </div> <div>
-<img src="../images/edited/Kernza_products.png" width="200" class="image-border">
+<img src="/images/edited/Kernza_products.png" width="200" class="image-border">
 </div> </div>

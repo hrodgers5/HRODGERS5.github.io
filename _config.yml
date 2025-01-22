@@ -20,7 +20,7 @@ author: Hannah Rodgers
 ###############################################
 
 navbar-links:
-  AboutMe: "/pages/aboutme"
+  About Me: "/pages/aboutme"
   Publications: "/pages/publications"
   Presentations: "/pages/presentations"
   Outreach: "/pages/outreach"
