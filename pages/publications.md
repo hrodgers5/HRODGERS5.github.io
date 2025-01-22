@@ -1,8 +1,10 @@
 ---
-layout: page
 title: "Research Publications"
-subtitle: "Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)"
+layout: page
 ---
+
+Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
+
 <!--CSS styling-->
 <style>
   .side-by-side {display: flex;}
@@ -24,7 +26,7 @@ h1, h2, h3 {text-align: center;}
 **Rodgers** HR, Norton JB, Norton U, & van Diepen LTA. 2024. **Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat.** *Applied Soil Ecology* 204, 105716. https://doi.org/10.1016/j.apsoil.2024.105716
 
 </div> <div>
-<img src="../images/edited/wheat_fallow.png" width="200" class="image-border">
+<img src="/images/edited/wheat_fallow.png" width="200" class="image-border">
 </div> </div>
 
 <!--PAPER 2: Dissertation-->
@@ -34,7 +36,7 @@ h1, h2, h3 {text-align: center;}
 **Rodgers** HR. 2024. **Sustaining vulnerable agroecosystems: Management impacts on soil health and microbiology in Wyoming High Plains wheat and Kernza agriculture.** *Ph.D. Dissertation, University of Wyoming*.
 
 </div> <div>
-<img src="../images/edited/measuring_plants.jpg" width="200" class="image-border">
+<img src="/images/edited/measuring_plants.jpg" width="200" class="image-border">
 </div> </div>
 
 <!--PAPER 3: Review-->
