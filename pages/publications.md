@@ -3,13 +3,24 @@ title: "Research Publications"
 layout: page
 ---
 
-## Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
+<!--CSS styling-->
+<style>
+  .side-by-side {display: flex;}
+  .side-by-side > div {flex: 1;padding: 10px;}
+  .image-border {border: 2px solid black;}
+</style>
+
+<style>
+h1, h2, h3 {text-align: center;}
+</style>
+
+### Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
 
 #### 1. Compost & Soil Health
-**Rodgers** HR, Norton JB, Norton U, & van Diepen LTA. 2024. **Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat.** *Applied Soil Ecology* 204, 105716. https://doi.org/10.1016/j.apsoil.2024.105716
+**Rodgers** HR, Norton JB, Norton U, & van Diepen LTA. 2024.  <a target="_blank" href="https://doi.org/10.1016/j.apsoil.2024.105716">Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat.</a> Applied Soil Ecology 204, 105716. 
 
 </div> <div>
 <img src="/images/edited/wheat_fallow.png" width="200" class="image-border">
