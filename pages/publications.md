@@ -75,5 +75,5 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming. </p>
 
 </div> <div>
-<img src="/images/edited/Kernza_products.png" width="200" class="image-border">
+<img src="/images/edited/kernza_products.png" width="200" class="image-border">
 </div> </div>
