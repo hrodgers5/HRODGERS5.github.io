@@ -9,6 +9,8 @@ In 2023, Chandan Shilpakar and I received a grant from the Wyoming Center for Gl
 
 This project was a collaboration between Biloba Organic (a research farm halfway between Kathmandu, Nepal and Tibet), the nearby Shree ___ Secondary School, and the University of Wyoming Center for Global Studies. We coordinated between these partners to establish a teaching orchard at the school that could help Nepali families gain the resources and knowledge to grow higher-value crops. 
 
-<img src="/images/nepal7.jpg" width="200" class="image-border">
-
-<img src="/images/nepal4.jpg" width="200" class="image-border">
+<figure class="half" style="display:flex">
+    <img style="width:48%" src="../images/nepal4.jpg">
+    <img style="width:300px" src="../images/nepal2.jpg">
+    <figcaption>Students participating in a soil health workshop (left) and .</figcaption>
+</figure>
