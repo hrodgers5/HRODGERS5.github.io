@@ -20,8 +20,7 @@ h1, h2, h3 {text-align: center;}
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
 
-<p style="font-weight: bold;">Rodgers</p>
-HR, Norton JB, Norton U, & van Diepen LTA. 2024.  
+<p style="font-weight: bold;">Rodgers</p> HR, Norton JB, Norton U, & van Diepen LTA. 2024.  
 <a target="_blank" href="https://doi.org/10.1016/j.apsoil.2024.105716">Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat.</a> 
 Applied Soil Ecology 204, 105716. 
 
@@ -32,7 +31,7 @@ Applied Soil Ecology 204, 105716.
 <!--PAPER 2: Dissertation-->
 <div class="side-by-side"> <div>
 
-**Rodgers** HR. 2024. 
+<p style="font-weight: bold;">Rodgers</p> HR. 2024. 
 <a target="_blank" href="https://www.proquest.com/docview/3094699934?fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&%20Theses">Sustaining vulnerable agroecosystems: Management impacts on soil health and microbiology in Wyoming High Plains wheat and Kernza agriculture.</a> 
 Ph.D. Dissertation, University of Wyoming.
 
@@ -43,7 +42,7 @@ Ph.D. Dissertation, University of Wyoming.
 <!--PAPER 3: Review-->
 <div class="side-by-side"> <div>
 
-**Rodgers** HR, Norton JB, & van Diepen LTA. 2021. 
+<p style="font-weight: bold;">Rodgers</p> HR, Norton JB, & van Diepen LTA. 2021. 
 <a target="_blank" href=https://doi.org/10.3390/agronomy11050852>
 Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.</a> Agronomy 11(5). 
 
@@ -56,7 +55,7 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <!--PAPER 4: Rhizosphere-->
 <div class="side-by-side"> <div>
 
-**Rodgers** HR, Norton, JB, Norton, U., & van Diepen, LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.
+<p style="font-weight: bold;">Rodgers</p> HR, Norton, JB, Norton, U., & van Diepen, LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.
   
 </div> <div>
 <img src="/images/edited/rhizo.jpg" width="200" class="image-border">
@@ -65,8 +64,7 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <!--PAPER 5: Kernza Wyoming-->
 <div class="side-by-side"> <div>
 
-#### 5. Kernza in Wyoming
-**Rodgers** HR, Norton, JB, Norton, U, & van Diepen, LTA. Kernza in Wyoming: Perennial grains for vulnerable lands.
+<p style="font-weight: bold;">Rodgers</p> HR, Norton, JB, Norton, U, & van Diepen, LTA. Kernza in Wyoming: Perennial grains for vulnerable lands.
 
 </div> <div>
 <img src="/images/edited/three_roots.jpg" width="200" class="image-border">
@@ -75,7 +73,7 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <!--PAPER 6: Bulletin-->
 <div class="side-by-side"> <div>
 
-**Rodgers** HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming.
+<p style="font-weight: bold;">Rodgers</p> HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming.
 
 </div> <div>
 <img src="/images/edited/Kernza_products.png" width="200" class="image-border">
