@@ -42,7 +42,8 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 3: Review-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton JB, & van Diepen LTA. 2021. <a target="_blank" href=https://doi.org/10.3390/agronomy11050852>Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.</a> <em>Agronomy.</em> </p>
+<p> <strong>Rodgers</strong> HR, Norton JB, & van Diepen LTA. 2021. 
+<a target="_blank" href="https://doi.org/10.3390/agronomy11050852">Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.</a> <em>Agronomy.</em> </p>
 
 </div> <div>
 <img src="/images/edited/ai_roots2.png" width="200" class="image-border">
