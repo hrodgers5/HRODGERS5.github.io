@@ -6,7 +6,7 @@ layout: page
 <!--CSS styling-->
 <style>
   .side-by-side {display: flex;}
-  .side-by-side > div {flex: 1;padding: 10px;}
+  .side-by-side > div {flex: 1;padding: 5px;}
   .image-border {border: 2px solid black;}
 </style>
 
@@ -42,8 +42,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 3: Review-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton JB, & van Diepen LTA. 2021. <a target="_blank" href=https://doi.org/10.3390/agronomy11050852>
-Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.</a> <em>Agronomy.</em> </p>
+<p> <strong>Rodgers</strong> HR, Norton JB, & van Diepen LTA. 2021. <a target="_blank" href=https://doi.org/10.3390/agronomy11050852>Effects of semiarid wheat agriculture management practices on soil microbial properties: A review.</a> <em>Agronomy.</em> </p>
 
 </div> <div>
 <img src="/images/edited/ai_roots2.png" width="200" class="image-border">
@@ -54,7 +53,7 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <!--PAPER 4: Rhizosphere-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton, JB, Norton, U., & van Diepen, LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.</p>
+<p> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.</p>
   
 </div> <div>
 <img src="/images/edited/rhizo.jpg" width="200" class="image-border">
@@ -63,7 +62,7 @@ Effects of semiarid wheat agriculture management practices on soil microbial pro
 <!--PAPER 5: Kernza Wyoming-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton, JB, Norton, U, & van Diepen, LTA. Kernza in Wyoming: Perennial grains for vulnerable lands. </p>
+<p> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Kernza in Wyoming: Perennial grains for vulnerable lands. </p>
 
 </div> <div>
 <img src="/images/edited/three_roots.jpg" width="200" class="image-border">
