@@ -24,6 +24,9 @@ navbar-links:
   Publications: "/pages/publications"
   Presentations: "/pages/presentations"
   Outreach: "/pages/outreach"
+  
+#to put blog on a different page (NOT homepage
+paginate_path: "/blog/page:num/"
 
 ################
 # --- Logo --- #
