@@ -23,8 +23,7 @@ navbar-links:
   About Me: "/pages/aboutme"
   Publications: "/pages/publications"
   Presentations: "/pages/presentations"
-  Outreach: "/pages/outreach"
-  Blog: "blog"
+  Outreach: "blog"
   
 #to put blog on a different page (NOT homepage
 paginate_path: "/blog/page:num/"
