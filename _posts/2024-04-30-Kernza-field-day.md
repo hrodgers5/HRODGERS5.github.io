@@ -1,7 +1,7 @@
 ---
-title: A teaching orchard in Sindhupalchok, Nepal
-cover-img: /images/nepal7.jpg
-thumbnail-img: /images/nepal4.JPG
+title: "A teaching orchard in Sindhupalchok, Nepal"
+cover-img: images/nepal7.jpg
+thumbnail-img: images/nepal4.JPG
 layout: post
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: "Research Publications"
 layout: page
+cover-img: images/wheat_fallow.png
 ---
 
 <!--CSS styling-->
 <style>
   .side-by-side {display: flex;}
-  .side-by-side > div {flex: 1;padding: 5px;}
+  .side-by-side > div {flex: 1;padding: 1px;}
   .image-border {border: 2px solid black;}
 </style>
 
