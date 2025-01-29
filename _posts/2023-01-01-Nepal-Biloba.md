@@ -1,7 +1,6 @@
 ---
 title: A teaching orchard in Sindhupalchok, Nepal
-comments: true
-cover-img: /images/nepal7.jpg
+thumbnail-img: /images/nepalorchard.JPG
 layout: post
 ---
 
@@ -10,6 +9,6 @@ While most Nepalis engage in subsistence agriculture, the main crops grown (rice
 In 2022, Chandan Shilpakar and I received a grant from the Wyoming Center for Global Studies to work with Biloba Farms to establish a teaching orchard at a nearby school. In 2023, we travelled to Nepal to help plant the first fruit trees and lead workshops on soil and plant health for the students. The project now has 25 apple, peach, coffee, and orange trees managed by students in the school’s Eco-Club, and plans to expand to a second school!
 
 <figure class="half" style="display:flex">
-    <img style="width:48%" src="/images/nepal7.jpg">
+    <img style="width:300px" src="/images/nepal7.jpg">
     <img style="width:300px" src="/images/nepal1.jpg">
 </figure>

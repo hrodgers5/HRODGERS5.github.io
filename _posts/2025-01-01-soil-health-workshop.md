@@ -1,7 +1,6 @@
 ---
 title: Soil health & climate workshop
-comments: true
-cover-img: /images/soil2.HEIC
+thumbnail-img: /images/soil2.HEIC
 layout: post
 ---
 
