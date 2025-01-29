@@ -1,5 +1,5 @@
 ---
-title: A teaching orchard in Sindhupalchok, Nepal
+title: Soil Health & Climate Workshop
 comments: true
 cover-img: /images/nepal7.jpg
 layout: post
