@@ -1,7 +1,6 @@
 ---
 title: "Research Publications"
 layout: page
-cover-img: images/wheat_fallow.png
 ---
 
 <!--CSS styling-->
