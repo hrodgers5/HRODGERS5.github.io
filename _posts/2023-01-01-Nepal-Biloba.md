@@ -1,5 +1,5 @@
 ---
-title: A teaching orchard in Nepal
+title: Teaching Orchard in Nepal
 thumbnail-img: images/nepalorchard.JPG
 layout: post
 ---
