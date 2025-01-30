@@ -1,6 +1,5 @@
 ---
 title: "A Kernza field day"
-cover-img: images/nepal7.jpg
 thumbnail-img: images/fieldday_2.HEIC
 layout: post
 ---
