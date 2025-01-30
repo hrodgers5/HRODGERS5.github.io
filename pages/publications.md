@@ -78,11 +78,3 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <img src="/images/edited/kernza_products.png" width="200" class="image-border">
 </div> </div>
 
-###Public Research Presentations
-
-Kernza in Wyoming: Perennial Grains for Vulnerable Agroecosystems. Oral presentation, Soil Science Society for America. St. Louis, MO 2023.
-
-Plant Breeding and the Rhizosphere: Microbial Indicators of Soil Health in a Perennial Grain Crop. Global Soil Biodiversity Conference, Dublin, Ireland, 2023.
-
-Sustaining Vulnerable Agroecosystems: Evaluating Compost & Cover Crops for High Plains Organic Wheat Agriculture. Oral and Poster presentation, Soil Science Society for America, Baltimore, MD 2022.
-

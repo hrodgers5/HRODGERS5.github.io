@@ -5,7 +5,7 @@ subtitle: USDA Northern Plains Climate Hub Fellow
 cover-img: images/kernzaprofile.jpg
 ---
 
-I work with farmers and researchers to create agricultural systems that are sustainable, resilient to climatic stress, and economically secure. I help make sure both that the science reaches farmers, and that farmers' challenges and insights inform how we do research. My current work focuses on topics like soil health management, alternative grains crops, incorporating perennials, and supporting on-farm research and farmer-to-farmer information sharing. My work is informed by the concept of Natural Systems Agriculture, which aims to create agricultural systems that mimic our native ecosystems and the benefits they provide. In my free time, I likes to hike, bike, and canoe around Laramie, Wyoming, and teach pottery at a community-run studio.  
+I work with farmers and researchers to create agricultural systems that are sustainable, resilient to climatic stress, and economically secure. I help ensure that the science reaches farmers, and that farmers' challenges and insights inform how we do research. My current work focuses on topics like soil health management, alternative grains crops, incorporating perennials, and supporting on-farm research and farmer-to-farmer learning networks. My work is informed by the concept of Natural Systems Agriculture, which aims to create agricultural systems that mimic our native ecosystems and the benefits they provide. In my free time, I likes to hike and canoe around Laramie, Wyoming, and teach pottery at a community clay studio.  
 
 
 Some of my past experiences include:  
