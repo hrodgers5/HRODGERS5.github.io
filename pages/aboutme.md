@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: page
-subtitle: Research Scientist, University of Wyoming College of Agriculture
+subtitle: Research Scientist, U. of Wyoming College of Agriculture
 cover-img: images/kernzaprofile.jpg
 ---
 
