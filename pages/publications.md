@@ -63,7 +63,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 5: Kernza Wyoming-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Kernza in Wyoming: Perennial grains for vulnerable lands. </p>
+<p> <em>In review.</em> <strong> Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Kernza in Wyoming: Perennial grains for vulnerable lands. <em> Agroecosystems, Geosciences, & the Environment.</em> </p>
 
 </div> <div>
 <img src="/images/edited/three_roots.jpg" width="200" class="image-border">
@@ -72,7 +72,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 6: Bulletin-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming. </p>
+<p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming. <em> University of Wyoming Extension.</em></p>
 
 </div> <div>
 <img src="/images/edited/kernza_products.png" width="200" class="image-border">
