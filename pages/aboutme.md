@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: page
-subtitle: USDA Northern Plains Climate Hub Fellow
+subtitle: Research Scientist, University of Wyoming College of Agriculture
 cover-img: images/kernzaprofile.jpg
 ---
 
@@ -10,11 +10,11 @@ I work with farmers and researchers to create agricultural systems that are sust
 
 Some of my past experiences include:  
 
+* A post-doc with the USDA Northern Plains Climate Hub, 2024-2025
 * A PhD in soil science from the University of Wyoming, 2020-2024  
 * Farming and teaching English in Nepal as a Fulbright Scholar, 2019  
 * Studying perennial grains as an intern at The Land Institute, 2018  
 * A Bachelors in biology and neuroscience from Oberlin College, 2014-2018  
-* Studying climate change and land use as a field technician with the National Ecological Observatory Network, 2017
 
 <div style="text-align: center;">
 <img src="/images/profile2.jpg" width="400" style="border: 2px solid black;"/>
