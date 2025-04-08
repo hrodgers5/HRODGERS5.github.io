@@ -22,6 +22,7 @@ author: Hannah Rodgers
 navbar-links:
   About Me: "/pages/aboutme"
   Publications: "/pages/publications"
+  Media: "/pages/media"
   Outreach: "blog"
   
 #to put blog on a different page (NOT homepage
