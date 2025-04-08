@@ -18,13 +18,41 @@ h1, h2, h3 {text-align: center;}
 ### Research in the news
 
 
-<!--Reflections-->
+<!--Mongabay-->
 <div class="side-by-side"> <div>
 
 <p> 
 <a target="_blank" href="https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/">Scientists look to wheatgrass to save dryland farming and capture carbon.</a> 
+Mongabay.
 </p>
 
 </div> <div>
 <img src="/images/mongabay.jpg" width="200" class="image-border">
 </div> </div>
+
+<!--Reflections-->
+<div class="side-by-side"> <div>
+
+<p> 
+<a target="_blank" href="https://www.uwyo.edu/uwexpstn/publications/reflections/reflections-2024-2024web.pdf">Reaping Soil Health Benefits: Kernza Outdoes Annual Wheat.</a> 
+University of Wyoming Reflections Magazine. 
+</p>
+
+</div> <div>
+<img src="/images/reflections.jpg" width="200" class="image-border">
+</div> </div>
+
+<!--WPR-->
+<div class="side-by-side"> <div>
+
+<p> 
+<a target="_blank" href="https://www.wyomingpublicmedia.org/open-spaces/2025-03-07/two-fired-usda-researchers-are-worried-for-the-future-of-wyoming-farms">Two fired USDA researchers are worried for the future of Wyoming farms.</a> 
+Wyoming Public Radio.
+</p>
+
+</div> <div>
+<img src="/images/reflections.jpg" width="200" class="image-border">
+</div> </div>
+
+
+
