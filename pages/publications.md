@@ -53,7 +53,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <div class="side-by-side"> <div>
 
 <p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. 2025. 
-<a target="_blank" href="https://www.wyoextension.org/publications/Search_Details.php?pubid=2144&pub=B-1403.">Kernza® Perennial Grain and Wheat-Fallow Budgets: Comparing a Perennial and Annual Cropping System in Southeastern Wyoming. <em> University of Wyoming Extension.</em></p>
+<a target="_blank" href="https://www.wyoextension.org/publications/Search_Details.php?pubid=2144&pub=B-1403.">Kernza® Perennial Grain and Wheat-Fallow Budgets: Comparing a Perennial and Annual Cropping System in Southeastern Wyoming.</a> <em>University of Wyoming Extension.</em> </p>
 
 </div> <div>
 <img src="/images/edited/kernza_products.png" width="200" class="image-border">
