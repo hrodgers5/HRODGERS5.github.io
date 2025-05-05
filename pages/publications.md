@@ -49,6 +49,16 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <img src="/images/edited/ai_roots2.png" width="200" class="image-border">
 </div> </div>
 
+<!--PAPER 6: Bulletin-->
+<div class="side-by-side"> <div>
+
+<p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. 2025. 
+<a target="_blank" href="https://www.wyoextension.org/publications/Search_Details.php?pubid=2144&pub=B-1403.">Kernza® Perennial Grain and Wheat-Fallow Budgets: Comparing a Perennial and Annual Cropping System in Southeastern Wyoming. <em> University of Wyoming Extension.</em></p>
+
+</div> <div>
+<img src="/images/edited/kernza_products.png" width="200" class="image-border">
+</div> </div>
+
 ### In-Progress
 
 <!--PAPER 4: Rhizosphere-->
@@ -69,12 +79,5 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <img src="/images/edited/three_roots.jpg" width="200" class="image-border">
 </div> </div>
 
-<!--PAPER 6: Bulletin-->
-<div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Fancher H, Foulke T, & Peters T. Perennial grain & wheat-fallow budgets: Comparing an annual & perennial cropping system in southeastern Wyoming. <em> University of Wyoming Extension.</em></p>
-
-</div> <div>
-<img src="/images/edited/kernza_products.png" width="200" class="image-border">
-</div> </div>
 
