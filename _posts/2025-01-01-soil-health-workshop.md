@@ -12,16 +12,24 @@ We then discuss the functions of a healthy soil, and how these soil properties i
 <img src="/images/five_functions.png" width="400" style="border: 2px solid black;"/>
 </div>
 
+Functions of a Healthy Soil
+
 <div style="text-align: center;">
 <img src="/images/soil_pH.png" width="400" style="border: 2px solid black;"/>
 </div>
+
+Testing Soil pH
 
 <div style="text-align: center;">
 <img src="/images/workshop.jpg" width="400" style="border: 2px solid black;"/>
 </div>
 
+Workshop with Biloba Organic Farms
+
 <div style="text-align: center;">
 <img src="/images/COG.jpg" width="400" style="border: 2px solid black;"/>
 </div>
+
+Workshop with Common Outdoor Ground
 
 
