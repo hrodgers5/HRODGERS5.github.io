@@ -64,7 +64,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 4: Rhizosphere-->
 <div class="side-by-side"> <div>
 
-<p> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.</p>
+<p> <em>In review.</em> <p> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.</p> <em> Plant and Soil. </em>
   
 </div> <div>
 <img src="/images/edited/rhizo.jpg" width="200" class="image-border">
