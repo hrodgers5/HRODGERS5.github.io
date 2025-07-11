@@ -7,8 +7,8 @@ subtitle: Research Scientist, U. of Wyoming College of Agriculture
 <!--CSS styling-->
 <style>
   .side-by-side {display: flex;}
-  .side-by-side > div:first-child {flex: 1.3; padding: 1px;}
-  .side-by-side > div:last-child {flex: 1;}
+  .side-by-side > div:first-child {flex: 1; padding: 1px;}
+  .side-by-side > div:last-child {flex: 0.8;}
   
   .image-border {border: 2px solid black;}
 </style>
@@ -24,7 +24,7 @@ h1, h2, h3 {text-align: center;}
 </p>
 
 </div> <div>
-<img src="/images/profile_pic2.jpg" width="1000" class="image-border">
+<img src="../images/profile_pic2.jpg" width="1000" class="image-border">
 </div> </div>
 
 Some of my past experiences include:  
