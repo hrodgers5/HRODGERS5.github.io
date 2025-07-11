@@ -2,7 +2,6 @@
 title: "About Me"
 layout: page
 subtitle: Research Scientist, U. of Wyoming College of Agriculture
-cover-img: images/kernzaprofile.jpg
 ---
 
 <!--CSS styling-->
@@ -22,7 +21,7 @@ h1, h2, h3 {text-align: center;}
 <p> I work with farmers and researchers to create agricultural systems that are sustainable, resilient to climatic stress, and economically secure. I help ensure that the science reaches farmers, and that farmers' challenges and insights inform how we do research. My current work focuses on topics like drought adaptation, soil health management, alternative grains crops, and supporting on-farm research and farmer-to-farmer learning networks. My work is informed by the concept of Natural Systems Agriculture, which aims to create agricultural systems that mimic our native ecosystems and the benefits they provide. I graduated in 2024 from the University of Wyoming with my PhD in soil science, and before that, I was an intern with The Land Institute and taught English in an agricultural community in Nepal. In my free time, I like to hike and canoe around Laramie, Wyoming, and teach pottery at a community clay studio. </p>
 
 </div> <div>
-<img src="/images/profile_pic2.jpg" width="300" class="image-border">
+<img src="/images/profile_pic2.jpg" width="500" class="image-border">
 </div> </div>
 
 Some of my past experiences include:  
