@@ -24,7 +24,7 @@ h1, h2, h3 {text-align: center;}
 </p>
 
 </div> <div>
-<img src="../images/profile_pic2.jpg" width="500" class="image-border">
+<img src="/images/profile_pic2.jpg" width="500" class="image-border">
 </div> </div>
 
 Some of my past experiences include:  
