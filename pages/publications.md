@@ -17,6 +17,16 @@ h1, h2, h3 {text-align: center;}
 <!--Subtitle-->
 ### Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 
+<!--PAPER 4: Rhizosphere-->
+<div class="side-by-side"> <div>
+
+<p> <strong>Rodgers</strong> 
+HR, Norton JB, Norton U, & van Diepen LTA. 2025. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere. <em> Plant and Soil.</em> </p>
+  
+</div> <div>
+<img src="/images/edited/rhizo.jpg" width="200" class="image-border">
+</div> </div>
+
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
 
@@ -60,14 +70,15 @@ Ph.D. Dissertation, University of Wyoming. </p>
 </div> </div>
 
 ### In-Progress
-
-<!--PAPER 4: Rhizosphere-->
+<!--PAPER 5: Kernza Wyoming-->
 <div class="side-by-side"> <div>
 
-<p> <em>In review.</em> <strong>Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere. <em> Plant and Soil.</em> </p>
-  
+<strong> Rodgers</strong>
+HR,
+Link E, Shilpakar C, Jackson E, Porensky LM, Miner GL, Sebade B. Practical recommendations for researchers engaging in on-farm research. <em> Agronomy.</em> </p>
+
 </div> <div>
-<img src="/images/edited/rhizo.jpg" width="200" class="image-border">
+<img src="/images/edited/on-farm.jpg" width="200" class="image-border">
 </div> </div>
 
 <!--PAPER 5: Kernza Wyoming-->
