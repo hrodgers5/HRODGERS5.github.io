@@ -73,7 +73,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 <!--PAPER 5: Kernza Wyoming-->
 <div class="side-by-side"> <div>
 
-<strong> Rodgers</strong>
+<p> <strong> Rodgers</strong>
 HR,
 Link E, Shilpakar C, Jackson E, Porensky LM, Miner GL, Sebade B. Practical recommendations for researchers engaging in on-farm research. <em> Agronomy.</em> </p>
 
