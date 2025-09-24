@@ -22,8 +22,8 @@ author: Hannah Rodgers
 navbar-links:
   About Me: "/pages/aboutme"
   Publications: "/pages/publications"
-  Media: "/pages/media"
   Outreach: "blog"
+  Media: "/pages/media"
   
 #to put blog on a different page (NOT homepage
 paginate_path: "/blog/page:num/"
