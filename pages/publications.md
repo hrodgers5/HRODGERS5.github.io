@@ -21,7 +21,7 @@ h1, h2, h3 {text-align: center;}
 <div class="side-by-side"> <div>
 
 <p> <strong>Rodgers</strong> 
-HR, Norton JB, Norton U, & van Diepen LTA. 2025. Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere. <em> Plant and Soil.</em> </p>
+HR, Norton JB, Norton U, & van Diepen LTA. 2025. <a target="_blank" href="https://doi.org/10.1007/s11104-025-07874-w">Rooting for microbes: Impacts of plant breeding on the Kernza rhizosphere.</a> <em>Plant and Soil.</em> </p>
   
 </div> <div>
 <img src="/images/edited/rhizo.jpg" width="200" class="image-border">
