@@ -27,6 +27,16 @@ HR, Norton JB, Norton U, & van Diepen LTA. 2025. <a target="_blank" href="https:
 <img src="/images/edited/rhizo.jpg" width="200" class="image-border">
 </div> </div>
 
+<!--PAPER 5: Kernza Wyoming-->
+<div class="side-by-side"> <div>
+
+<p> <strong> Rodgers</strong> 
+HR, Norton JB, Norton U, & van Diepen LTA. 2026. <a target="_blank" href="https://doi.org/10.3390/agronomy16060624">Kernza in Wyoming: Perennial grains for vulnerable lands.</a> <em>MDPI Agronomy.</em>  </p>
+
+</div> <div>
+<img src="/images/edited/three_roots.jpg" width="200" class="image-border">
+</div> </div>
+
 <!--PAPER 1: OREI-->
 <div class="side-by-side"> <div>
 
@@ -79,15 +89,6 @@ Link E, Shilpakar C, Jackson E, Porensky LM, Miner GL, Sebade B. Practical recom
 
 </div> <div>
 <img src="/images/edited/on-farm.jpg" width="200" class="image-border">
-</div> </div>
-
-<!--PAPER 5: Kernza Wyoming-->
-<div class="side-by-side"> <div>
-
-<p> <em>In review.</em> <strong> Rodgers</strong> HR, Norton JB, Norton U, & van Diepen LTA. Kernza in Wyoming: Perennial grains for vulnerable lands. <em> Agroecosystems, Geosciences, & the Environment.</em> </p>
-
-</div> <div>
-<img src="/images/edited/three_roots.jpg" width="200" class="image-border">
 </div> </div>
 
 
