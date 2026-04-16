@@ -26,6 +26,14 @@ Mongabay.
 
 <img src="/images/mongabay.jpg" width="400" class="image-border">
 
+<!--On-Farm Research Network-->
+
+
+<p> 
+<a target="_blank" href="https://www.instagram.com/p/DV4GyTpE_qe/">Launching an on-farm research network for Wyoming.</a> 
+Western Regional Development Center.
+</p>
+
 <!--Reflections-->
 <p> 
 <a target="_blank" href="https://www.uwyo.edu/uwexpstn/publications/reflections/reflections-2024-2024web.pdf">Reaping Soil Health Benefits: Kernza Outdoes Annual Wheat.</a> 
