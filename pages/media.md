@@ -34,6 +34,8 @@ Mongabay.
 Western Regional Development Center.
 </p>
 
+<img src="/images/on_farm_network.png" width="400" class="image-border">
+
 <!--Reflections-->
 <p> 
 <a target="_blank" href="https://www.uwyo.edu/uwexpstn/publications/reflections/reflections-2024-2024web.pdf">Reaping Soil Health Benefits: Kernza Outdoes Annual Wheat.</a> 
