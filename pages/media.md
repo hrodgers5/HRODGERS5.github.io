@@ -19,8 +19,8 @@ h1, h2, h3 {text-align: center;}
 
 <!--NASI-->
 <p> 
-<a target="_blank" href="https://www.uwyo.edu/news/2026/06/uw-hosts-35-native-american-high-school-students-for-ninth-native-american-summer-institute.html.</a> 
-Native American Summer Institute.
+<a target="_blank" href="https://www.uwyo.edu/news/2026/06/uw-hosts-35-native-american-high-school-students-for-ninth-native-american-summer-institute.html">Native American Summer Institute.</a>
+University of Wyoming News.
 </p>
 
 <img src="/images/NASI.jpg" width="400" class="image-border">
