@@ -17,14 +17,14 @@ h1, h2, h3 {text-align: center;}
 <!--Subtitle-->
 ### Research in the news
 
-
-<!--Mongabay-->
+<!--NASI-->
 <p> 
-<a target="_blank" href="https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/">Scientists look to wheatgrass to save dryland farming and capture carbon.</a> 
-Mongabay.
+<a target="_blank" href="https://www.uwyo.edu/news/2026/06/uw-hosts-35-native-american-high-school-students-for-ninth-native-american-summer-institute.html.</a> 
+Native American Summer Institute.
 </p>
 
-<img src="/images/mongabay.jpg" width="400" class="image-border">
+<img src="/images/NASI.jpg" width="400" class="image-border">
+
 
 <!--On-Farm Research Network-->
 
@@ -35,6 +35,14 @@ Western Regional Development Center.
 </p>
 
 <img src="/images/on_farm_network.png" width="400" class="image-border">
+
+<!--Mongabay-->
+<p> 
+<a target="_blank" href="https://news.mongabay.com/2021/08/scientists-look-to-wheatgrass-to-save-dryland-farming-and-capture-carbon/">Scientists look to wheatgrass to save dryland farming and capture carbon.</a> 
+Mongabay.
+</p>
+
+<img src="/images/mongabay.jpg" width="400" class="image-border">
 
 <!--Reflections-->
 <p> 
