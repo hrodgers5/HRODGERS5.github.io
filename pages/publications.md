@@ -17,6 +17,16 @@ h1, h2, h3 {text-align: center;}
 <!--Subtitle-->
 ### Find full copies on [google scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=rK1CuzcAAAAJ&hl=en&user=rK1CuzcAAAAJ)
 
+<!--PAPER 5: On-Farm-->
+<div class="side-by-side"> <div>
+
+<p> <strong> Rodgers</strong>
+HR, Link E, Shilpakar C, Jackson E, Porensky LM, Miner GL, Sebade B. 2026. <a target="_blank" href="https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.70467">Practical recommendations for researchers engaging in on-farm research.</a> <em>Agronomy.</em> </p>
+
+</div> <div>
+<img src="/images/edited/on-farm.jpg" width="200" class="image-border">
+</div> </div>
+
 <!--PAPER 4: Rhizosphere-->
 <div class="side-by-side"> <div>
 
@@ -80,16 +90,7 @@ Ph.D. Dissertation, University of Wyoming. </p>
 </div> </div>
 
 ### In-Progress
-<!--PAPER 5: Kernza Wyoming-->
-<div class="side-by-side"> <div>
 
-<p> <strong> Rodgers</strong>
-HR,
-Link E, Shilpakar C, Jackson E, Porensky LM, Miner GL, Sebade B. Practical recommendations for researchers engaging in on-farm research. <em> Agronomy.</em> </p>
-
-</div> <div>
-<img src="/images/edited/on-farm.jpg" width="200" class="image-border">
-</div> </div>
 
 
 
